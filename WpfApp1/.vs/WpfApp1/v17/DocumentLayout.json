@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\pages\\plantpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\plantpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\pages\\plantpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\plantpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|c:\\users\\veronia\\source\\demo_liba\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlantPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\PlantPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\PlantPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\PlantPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\PlantPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:04:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlantPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\PlantPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\PlantPage.xaml",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\PlantPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\PlantPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:59:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pages\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:56:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:55:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:53:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Veronia\\source\\DEMO_LIBA\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:53:17.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

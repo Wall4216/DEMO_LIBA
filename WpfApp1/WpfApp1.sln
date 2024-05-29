@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablePartLibrary", "..\..\Empt\Amirhanov_Variant_Demo\WpfApp1\VariablePartLibrary\VariablePartLibrary.csproj", "{06B0DFC9-93E5-4261-93C7-EE4EB2EAC4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7DF4B2-A5ED-4557-A77F-183A5B607DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B0DFC9-93E5-4261-93C7-EE4EB2EAC4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B0DFC9-93E5-4261-93C7-EE4EB2EAC4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B0DFC9-93E5-4261-93C7-EE4EB2EAC4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B0DFC9-93E5-4261-93C7-EE4EB2EAC4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF45E09-2339-4BFA-A556-C688441E61FB}
+	EndGlobalSection
+EndGlobal

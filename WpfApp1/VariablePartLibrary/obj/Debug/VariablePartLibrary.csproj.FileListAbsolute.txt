@@ -1,0 +1,6 @@
+D:\github\VariablePartDemoExamen\VariablePartLibrary\bin\Debug\VariablePartLibrary.dll
+D:\github\VariablePartDemoExamen\VariablePartLibrary\bin\Debug\VariablePartLibrary.pdb
+D:\github\VariablePartDemoExamen\VariablePartLibrary\obj\Debug\VariablePartLibrary.csproj.AssemblyReference.cache
+D:\github\VariablePartDemoExamen\VariablePartLibrary\obj\Debug\VariablePartLibrary.csproj.CoreCompileInputs.cache
+D:\github\VariablePartDemoExamen\VariablePartLibrary\obj\Debug\VariablePartLibrary.dll
+D:\github\VariablePartDemoExamen\VariablePartLibrary\obj\Debug\VariablePartLibrary.pdb
